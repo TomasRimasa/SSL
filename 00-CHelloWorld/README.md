@@ -1,0 +1,3 @@
+-Editor de codigo: Visual Studio Code.
+-Se Utilizo MSYS2 que proporciona MinGW-w64, que a su vez usa GCC como compilador de C.
+-La version del Gcc es 13.2.0 y La version del leguaje C utilizada es C11.
