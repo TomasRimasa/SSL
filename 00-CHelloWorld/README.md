@@ -15,6 +15,8 @@
 - **Legajo:** 222.640-6  
 - **Apellido:** Rimasa  
 - **Nombre:** Tomas  
+  
+  - Nota: Este TP 00 Fue realizado de manera individual.
 
 ## Enunciado
 
