@@ -1,5 +1,21 @@
 # Tp 00 - "Hello, World!" in C
 
+## Informacion
+
+### Numero de Equipo
+> ⚠️ **Caution**  
+> NO HAY ASIGNADO NUMERO DE EQUIPO.
+
+### Nombre de Equipo
+> ⚠️ **Caution**  
+> NO HAY ASIGNADO NOMBRE DE EQUIPO.
+
+### Autores 
+- **Github:** TomasRimasa  
+- **Legajo:** 222.640-6  
+- **Apellido:** Rimasa  
+- **Nombre:** Tomas  
+
 ## Enunciado
 
 ### Objetivos
