@@ -49,3 +49,6 @@ Adquirir y preparar los recursos necesarios para resolver los trabajos del curso
 
 ### Version del Lenguaje C
 - La version del leguaje C utilizada es C11.
+
+
+
