@@ -48,7 +48,7 @@ Adquirir y preparar los recursos necesarios para resolver los trabajos del curso
 - La version del Gcc es 13.2.0
 
 ### Version del Lenguaje C
-- La version del leguaje C utilizada es C11.
+- La version del leguaje C utilizada es C11. La version la obtuve corriendo un codigo que devolvia un codigo, que en mi caso, era equiavlente a C11
 
 
 
